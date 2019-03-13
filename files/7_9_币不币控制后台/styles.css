@@ -1,0 +1,241 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(228, 228, 228, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1614px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u1952_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1400px;
+  height:788px;
+}
+#u1952 {
+  border-width:0px;
+  position:absolute;
+  left:100px;
+  top:100px;
+  width:1400px;
+  height:788px;
+}
+#u1952_text {
+  border-width:0px;
+  position:absolute;
+  left:2px;
+  top:386px;
+  width:1396px;
+  word-wrap:break-word;
+}
+#u1953_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:302px;
+  height:70px;
+}
+#u1953 {
+  border-width:0px;
+  position:absolute;
+  left:675px;
+  top:307px;
+  width:302px;
+  height:70px;
+}
+#u1953_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1954_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:326px;
+  height:81px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(255, 0, 0, 1);
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1954 {
+  border-width:0px;
+  position:absolute;
+  left:667px;
+  top:313px;
+  width:326px;
+  height:81px;
+}
+#u1954_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1955_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:361px;
+  height:25px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+}
+#u1955 {
+  border-width:0px;
+  position:absolute;
+  left:1034px;
+  top:341px;
+  width:361px;
+  height:25px;
+  font-family:'PingFangSC-Semibold', 'PingFang SC Semibold', 'PingFang SC';
+  font-weight:650;
+  font-style:normal;
+}
+#u1955_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:361px;
+  white-space:nowrap;
+}
+#u1956_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:523px;
+  height:467px;
+}
+#u1956 {
+  border-width:0px;
+  position:absolute;
+  left:1072px;
+  top:544px;
+  width:523px;
+  height:467px;
+}
+#u1956_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1957 {
+  border-width:0px;
+  position:absolute;
+  left:993px;
+  top:354px;
+  width:0px;
+  height:0px;
+}
+#u1957_seg0 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:-4px;
+  width:31px;
+  height:8px;
+}
+#u1957_seg1 {
+  border-width:0px;
+  position:absolute;
+  left:23px;
+  top:-4px;
+  width:8px;
+  height:432px;
+}
+#u1957_seg2 {
+  border-width:0px;
+  position:absolute;
+  left:23px;
+  top:420px;
+  width:56px;
+  height:8px;
+}
+#u1957_seg3 {
+  border-width:0px;
+  position:absolute;
+  left:65px;
+  top:413px;
+  width:22px;
+  height:22px;
+}
+#u1957_text {
+  border-width:0px;
+  position:absolute;
+  left:-23px;
+  top:216px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u1958_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:513px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1958 {
+  border-width:0px;
+  position:absolute;
+  left:1101px;
+  top:487px;
+  width:513px;
+  height:33px;
+}
+#u1958_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:513px;
+  word-wrap:break-word;
+}

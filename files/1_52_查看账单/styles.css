@@ -1,0 +1,40 @@
+﻿body {
+  margin:0px;
+  background-color:rgba(228, 228, 228, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:415px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u752_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:315px;
+  height:559px;
+}
+#u752 {
+  border-width:0px;
+  position:absolute;
+  left:100px;
+  top:100px;
+  width:315px;
+  height:559px;
+}
+#u752_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:0px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
